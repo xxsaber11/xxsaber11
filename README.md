@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.notion.so/Sebastian-Victor-Ariel-Godirio-fa1ff2439a694fc6a3795038245c7487">Sebastian</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/sgVMJkY">
+<img src="https://imgur.com/grG5snR">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Linkedin Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.linkedin.com/in/sebastián-godirio-88a053169/)
